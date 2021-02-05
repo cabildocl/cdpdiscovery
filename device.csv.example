@@ -1,0 +1,3 @@
+ip,community,type
+192.168.5.254,snmp_community,cisco_ios
+192.168.5.249,snmp_community,cisco_iossg300
